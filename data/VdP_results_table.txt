@@ -1,0 +1,11 @@
+No.	Gene	TC(Relative to Control)	HDL-C (Relative to Control)	non-HDL-C(Relative to Control)	Reaction Affected	fmut	Experimentally Measured Variable Used To Determine fmut	Ref.
+1	LDLR	1.85	0.86	2.17	5, 7	0.38	The fractional catabolic rate of APOB in LDL	(61) 
+2	APOB	1.36	0.85	1.52	5, 7	0.31	The fractional catabolic rate of APOB in LDL	(61) 
+3	APOB	1.97	1.12	2.24	5, 7	0.32	The fractional catabolic rate of APOB in LDL	(61) 
+4	ABCA1	1.07	0.22	1.42	8, 16, 17	0.41	The cholesterol efflux rate to APOA1	(67) 
+5	APOE	2.8	NA	NA	5, 7	0.45	The residence time of the carrier or control form of APOE in a normal subject	(68) 
+6	CETP	1.01	1.1	0.98	21	0.65	The plasma level of CETP	(15) 
+7	LCAT	0.81	0.79	0.97	9	0.62	The in vitro determined activity of LCAT	(46) 
+8	LCAT	0.77	0.19	0.82	9	0	The in vitro determined activity of LCAT	(46) 
+9	DHCR7	0.2	NA	NA	1, 2, 3	0	The cholesterol synthesis activity in cultured fibroblasts	(69, 70) 
+10	CYP7A1	1.74	0.97	2.09	18	0.05	The bile acid content of the stools	(24) 
