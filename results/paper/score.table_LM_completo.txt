@@ -1,0 +1,7 @@
+"PCC"	"KCC"	"MAE"	"RMSD"	"Rsquared"
+"vdP predicted HDL ratio"	-0.22	-0.18	0.4	0.54	0.05
+"vdP predicted LDL ratio"	0.65	0.55	0.77	1.03	0.43
+"vdp predicted TC ratio"	0.66	0.63	0.55	0.71	0.43
+"PM predicted HDL ratio"	0.32	0	0.32	0.4	0.11
+"PM predicted LDL ratio"	0.74	0.5	0.39	0.5	0.55
+"PM predicted TC ratio"	0.75	0.69	0.42	0.57	0.56
