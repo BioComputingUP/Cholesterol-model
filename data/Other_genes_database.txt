@@ -1,0 +1,68 @@
+ID	Sex	C-HDL	C-LDL	model_reaction	GENE	Variant	Mutation	Paper	mmol/l
+1	F	1.51	7.53	5,7	LDLR	C667LfsX6	Frameshiift, stop_gain	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+2	F	0.94	19.84	5,7	LDLR	W419X	stop gain	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+3	M	1.81	12.62	5,7	LDLR	W483X	stop gain	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+4	M	2.05	7.83	5,7	LDLR	W483X	stop gain	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+5	F	0.77	11.2	5,7	LDLR	C329Y	aa_change	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+6	F	0.86	12.37	5,7	LDLR	H583Y	aa_change	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+7	M	0.75	19.28	5,7	LDLR	Val806GlyfsX11	stop gain	Novel Mutations of Low-Density Lipoprotein Receptor Gene in China Patients with Familial Hypercholesterolemia, Applied Biochemistry and Biotechnology 176, 2015	T
+8	F	1.91	7.61	5,7	LDLR	His583Tyr	aa_change	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+9	M	1.29	7.15	5,7	LDLR	Pro658Leu	aa_change	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+10	M	1.26	4.98	5,7	LDLR	His583Tyr	aa_change	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+11	F	1.96	4.97	5,7	LDLR	Pro658Leu	aa_change	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+12	F	1.07	5.49	5,7	LDLR	c.551_553delGTAinsTT	deletion	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+13	M	1.09	4.99	5,7	LDLR	c.551_553delGTAinsTT	deletion	Identification of LDLR mutations in two Chinese pedigrees with familial hypercholesterolemia, J Pediatr Endocrinol Metab. 2012  	T
+14	F	0.83	3.38	5,7	APOB	R3500Q	aa_change	Detection of familial defective apoB (FDB) mutations in hypercholesterolemic children and adolescents by denaturing high performance liquid chromatography (DHPLC), Clinical biochemistry 41 (2008)	T
+15	M	1.04	5.45	5,7	APOB	R3500Q	aa_change	Detection of familial defective apoB (FDB) mutations in hypercholesterolemic children and adolescents by denaturing high performance liquid chromatography (DHPLC), Clinical biochemistry 41 (2008)	T
+16	M	0.98	4.02	5,7	APOB	R3500Q	aa_change	Detection of familial defective apoB (FDB) mutations in hypercholesterolemic children and adolescents by denaturing high performance liquid chromatography (DHPLC), Clinical biochemistry 41 (2008)	T
+17	M	1.58	3.82	5,7	APOB	R3500Q	aa_change	Familial defective apolipoprotein B-100: detection and haplotype analysis of the Arg 3500 Gln mutation in hyperlipidemic Chinese, Atherosclerosis 152 (2000)	T
+18	M	1.09	3.28	5,7	APOB	R3500Q	aa_change	Familial defective apolipoprotein B-100: detection and haplotype analysis of the Arg 3500 Gln mutation in hyperlipidemic Chinese, Atherosclerosis 152 (2000)	T
+19	M	0.65	3.74	5,7	APOB	R3500Q	aa_change	Familial defective apolipoprotein B-100: detection and haplotype analysis of the Arg 3500 Gln mutation in hyperlipidemic Chinese, Atherosclerosis 152 (2000)	T
+20	F	41	240	5,7	APOB	R3500Q	aa_change	A new but frequent mutation of apoB-100 apoB His3543Tyr, Atherosclerosis 174 (2004)	F
+21	M	36	306	5,7	APOB_HOM	R500Q	aa_change	PCSK9 inhibitor therapy in homozygous familial defective apolipoprotein B-100 due to APOB R3500Q: A case report, Journal of Clinical Lipidology (2017)	F
+22	M	4	154	8,16,17	ABCA1	D1009Y, F2009F	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+23	F	38	88	8,16,17	ABCA1	D1009Y	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+24	F	17	111	8,16,17	ABCA1	D1009Y	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+25	M	30	109	8,16,17	ABCA1	F2009F	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+26	M	35	117	8,16,17	ABCA1	D1009Y	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+27	F	27	92	8,16,17	ABCA1	D1009Y	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+28	F	43	154	8,16,17	ABCA1	D1009Y	aa_change	Novel ABCA1 compound variant associated with HDL cholesterol deficiency, Biochimica et Biophysica Acta 1587 (2002)	F
+29	M	1.2	5.5	5,7	APOE	Arg269Gly	aa_change	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+30	M	1.5	7.1	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+31	M	1.8	5.7	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+32	F	2.4	9.4	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+33	F	1.5	5.6	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+34	M	1.8	11.8	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+35	F	1.4	6.5	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+36	M	1.6	7.7	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+37	F	1.9	4	5,7	APOE	pLeu167del	deletion	Description of a Large Family with Autosomal Dominant Hypercholesterolemia Associated with the APOE p.Leu167del Mutation, Human mutation 2012	T
+38	M	1.6	9.7	5,7	APOE	pLeu167del	deletion	APOE p.Leu167del mutation in familial hypercholesterolemia. Atherosclerosis 2013	T
+39	F	1.6	5.3	5,7	APOE	pLeu167del	deletion	APOE p.Leu167del mutation in familial hypercholesterolemia. Atherosclerosis 2013	T
+40	F	1.2	3.8	5,7	APOE	pLeu167del	deletion	APOE p.Leu167del mutation in familial hypercholesterolemia. Atherosclerosis 2013	T
+41	NA	62	65	21	CETP_D442G	D442G	aa_change	Lipoprotein profiles in children with two common cholesteryl ester transfer protein gene mutations, D442G and I14A, during the first year of life. Clinica Chimica Acta 406 (2009)	F
+42	F	0.52	1.34	9	LCAT_HOM	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+43	M	0.48	1.76	9	LCAT_HOM	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+44	M	0.13	0.74	9	LCAT_HOM	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+45	M	0.22	1.69	9	LCAT_HOM	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+46	M	7	41	9	LCAT_HOM	M293R	aa_change	Homozygous lecithin:cholesterol acyltransferase (LCAT) deficiency due to a new loss of function mutation and review of the literature. Journal of Clinical Lipidology 2011	F
+47	F	5	223.9	9	LCAT_HOM	G119D	aa_change	A novel homozygous mutation causing lecithin–cholesterol acyltransferase deficiency in a proband of Romanian origin with a record of extreme gestational hyperlipidemia, journal of clinical lipidology 2017	F
+48	F	5.03	141.76	9	LCAT_HOM	G119D	aa_change	A novel homozygous mutation causing lecithin–cholesterol acyltransferase deficiency in a proband of Romanian origin with a record of extreme gestational hyperlipidemia, journal of clinical lipidology 2017	F
+49	F	0.94	3.8	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+50	F	1.09	2.42	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+51	F	2.25	2.93	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+52	M	0.84	3.13	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+53	F	1.42	3.12	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+54	M	1.11	3.12	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+55	F	1.12	2.58	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+56	F	0.86	1.51	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+57	F	0.96	2.8	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+58	F	0.81	1.47	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+59	M	1.28	1.36	9	LCAT	Val309Met	aa_change	Familial lecithin-cholesterol acyltransferase deficiency: Biochemical characteristics and molecular analysis of a new LCAT mutation in a Polish family	T
+60	F	1.42	2.47	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+61	M	1.07	2.76	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+62	M	1.09	1.93	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+63	F	1.38	2.1	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+64	M	0.93	2.85	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+65	F	1.28	1.38	9	LCAT	102delG	deletion	Characterization of a new LCAT mutation causing familial LCAT deficiency (FLD) and the role of APOE as a modifier gene of the FLD phenotype, Atherosclerosis 2017	T
+66	F	107	197	18	CYP7A1	L413fsX414	deletion	Human cholesterol 7alpha-hydroxylase (CYP7A1) deficiency has a hypercolesterolemic phenotype, Journal of Clinical Investigation 110 (2002)	F
+67	M	29	151	18	CYP7A1	L413fsX414	deletion	Human cholesterol 7alpha-hydroxylase (CYP7A1) deficiency has a hypercolesterolemic phenotype, Journal of Clinical Investigation 110 (2002)	F
