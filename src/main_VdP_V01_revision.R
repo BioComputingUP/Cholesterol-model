@@ -11,18 +11,17 @@ source('src/optimization_fmut.R')
 source('src/Human_model_R_ORIGINAL_vDp_2012.R')
 source('src/make_simulations_V01_revision.R')
 source('src/create_boxplot_patients.R')
-source('src/bootstrap_02_revision.R')
 source('src/standard_deviation_predictions_01.R')
 
 T.S <- read.table(file = "data/Other_genes_database.txt", header=TRUE, sep = '\t') # training set
 
-if(FALSE){ # training phase
+if(F){ # training phase
   LDL.fmut <- Compute_f_mut_LDL() # compute optimal fmut considering HDL, LDL level 
   fmut.table <- as.data.frame(cbind(LDL.fmut, as.character(T.S$GENE), as.character(T.S$Mutation)), stringsAsFactors = F)
   fmut.table[, 1] <- as.numeric(LDL.fmut)
   colnames(fmut.table) <- c("mean", "GENE", "mutation")
   write.table(file = './results/fmut_optimized_Levenberg_Mar.txt', fmut.table, sep = '\t', row.names = F, col.names = T, quote = F)
-  if(FALSE){
+  if(F){
     TC.fmut <- Compute_f_mut_TC() # compute optimal fmut considering TC level, only done with DHCR7 fmut (1,2,3)
     fmut.TC.results <- as.data.frame(cbind(seq(1:length(TC.fmut)),TC.fmut))
     colnames(fmut.TC.results) <- c("ID", "fmut")
@@ -451,6 +450,7 @@ if(T){
   MakeSimulations()
 } 
 if(T){
+  source('src/bootstrap_02_revision.R')
   # make bootstrap
   Bootstrap()
 }
