@@ -52,7 +52,7 @@ makePlotDataset <- function(patient.dataset.name = "data/Other_genes_database.tx
                                       strip.text.x = element_text(size = 7),
                                       plot.title = element_text(size = 13, face = "bold", hjust = 0.5),
                                       axis.title.y = element_text(size = 14, face = "bold"),
-                                      axis.text.x = element_text(angle = 300, hjust = 0.2, vjust = -0.4, face = "bold"),
+                                      axis.text.x = element_text(angle = 300, hjust = 0.2, vjust = 0.8, face = "bold"),
                                       axis.title.x = element_text(size = 14, face = "bold"),
                                       axis.text = element_text(size = 8))
   p <- p + scale_x_discrete(breaks=c("Control", "1", "2", "3", "5", "4", "6", "7", "8", "10"),
